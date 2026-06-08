@@ -46,7 +46,7 @@ supply-chain-analytics/
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 - **Table:** `orders`
 - **Rows:** 180,511
 - **Columns:** 51
@@ -95,7 +95,11 @@ Open `dashboard/supply_chain_dashboard.pbix` in Power BI Desktop
 ---
 
 ## Data Source
-[DataCo Smart Supply Chain Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis) — Kaggle
+[DataCo Smart Supply Chain Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis) - Kaggle
+
+> **Note:** Raw and cleaned data files are not included in this repo due to 
+> file size. Download the dataset from the Kaggle link above and run 
+> `notebooks/clean_data.py` to reproduce the cleaned dataset.
 
 ---
 

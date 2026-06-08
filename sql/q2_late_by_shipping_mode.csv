@@ -1,0 +1,5 @@
+"shipping_mode","total_orders","late_orders","late_pct","avg_actual_days","avg_scheduled_days"
+"First Class",27813,0,0.00,2.0,1.0
+"Same Day",9737,0,0.00,0.5,0.0
+"Second Class",35214,0,0.00,4.0,2.0
+"Standard Class",107747,0,0.00,4.0,4.0

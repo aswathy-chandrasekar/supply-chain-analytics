@@ -1,0 +1,4 @@
+"customer_segment","unique_customers","total_orders","total_revenue","avg_sales_per_customer","late_delivery_pct"
+"Consumer",10694,93503,19095328.31,183.56,0.00
+"Corporate",6235,54785,11166910.75,183.07,0.00
+"Home Office",3715,32223,6519712.09,181.82,0.00

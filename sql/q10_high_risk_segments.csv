@@ -1,0 +1,21 @@
+"market","shipping_mode","customer_segment","total_orders","late_pct","avg_profit"
+"Africa","First Class","Corporate",525,0.00,21.30
+"Africa","First Class","Home Office",259,0.00,23.08
+"Africa","Same Day","Consumer",345,0.00,18.35
+"Africa","Same Day","Corporate",213,0.00,17.00
+"Africa","Same Day","Home Office",110,0.00,15.67
+"Africa","Second Class","Consumer",1136,0.00,19.56
+"Africa","Second Class","Corporate",659,0.00,18.43
+"Africa","Second Class","Home Office",369,0.00,16.24
+"Africa","Standard Class","Consumer",3583,0.00,21.05
+"Africa","Standard Class","Corporate",2131,0.00,22.91
+"Africa","Standard Class","Home Office",1341,0.00,24.62
+"Europe","First Class","Consumer",4138,0.00,26.68
+"Europe","First Class","Corporate",2298,0.00,23.38
+"Europe","First Class","Home Office",1456,0.00,19.96
+"Europe","Same Day","Consumer",1478,0.00,23.92
+"Europe","Same Day","Corporate",821,0.00,18.54
+"Europe","Same Day","Home Office",460,0.00,15.98
+"Europe","Second Class","Consumer",5015,0.00,21.94
+"Europe","Second Class","Corporate",3072,0.00,22.52
+"Africa","First Class","Consumer",943,0.00,27.19

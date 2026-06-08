@@ -1,7 +1,7 @@
 # Supply Chain Analytics Project
 
 ## Overview
-End-to-end supply chain analytics project analyzing **180,511 orders** across 5 global markets (2015–2017). Built a complete analytics pipeline from raw data to business insights using Python, PostgreSQL, Power BI, and Prophet forecasting.
+End-to-end supply chain analytics project analyzing **180,511 orders** across 5 global markets (2015-2017). Built a complete analytics pipeline from raw data to business insights using Python, PostgreSQL, Power BI, and Prophet forecasting.
 
 ---
 
@@ -23,7 +23,7 @@ End-to-end supply chain analytics project analyzing **180,511 orders** across 5 
 4. **Fishing is the #1 profit category** ($756K) but ranks 7th in units sold — high margin, low volume
 5. **Fan Shop drives 47% of total revenue** ($17.1M out of $36.45M)
 6. **$3.7M in discounts given** — nearly matching total profit of $3.93M
-7. **Prophet forecast** predicts $872K–$952K monthly revenue for H1 2018
+7. **Prophet forecast** predicts $872K-$952K monthly revenue for H1 2018
 
 ---
 

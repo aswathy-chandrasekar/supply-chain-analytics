@@ -1,6 +1,6 @@
 # Supply Chain Business Insights & Recommendations
 
-**Project:** Supply Chain Analytics - DataCo Global (180,511 orders, 2015–2017)  
+**Project:** Supply Chain Analytics - DataCo Global (180,511 orders, 2015-2017)  
 **Analyst:** Aswathy Chandrasekar  
 ---
 
@@ -80,7 +80,7 @@
 ## Forecast Summary
 
 Based on the Prophet forecasting model:
-- **Predicted monthly revenue (H1 2018):** $872K–$952K
+- **Predicted monthly revenue (H1 2018):** $872K-$952K
 - **January/February dip** is seasonal and expected
 - **Revenue trend is stable** - no significant growth without strategic intervention
 

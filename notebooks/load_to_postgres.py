@@ -2,11 +2,11 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 
 # ── Config ─────────────────────────────────────────────────────────────────
-DB_USER     = "postgres"
-DB_PASSWORD = "admin123"
-DB_HOST     = "localhost"
-DB_PORT     = "5432"
-DB_NAME     = "supply_chain"
+DB_USER     = "******"
+DB_PASSWORD = "*****"
+DB_HOST     = "*********"
+DB_PORT     = "****"
+DB_NAME     = "******"
 
 CLEANED_PATH = r"C:\Users\UTD\OneDrive\Documents\supply-chain-analytics\data\cleaned\supply_chain_cleaned.csv"
 
